@@ -2,8 +2,7 @@
 //  ContentView.swift
 //  TwitterSwiftUIClone
 //
-//  Created by Sonya on 6/14/23.
-//
+
 
 import SwiftUI
 
